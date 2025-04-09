@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Curb Restaurant - Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <section class="services-intro">
+            <h1>Our Services</h1>
+            <p>At The Curb Restaurant, we provide a variety of food delivery and catering services to meet your needs. Whether it's a family gathering, a corporate event, or just a craving, we have you covered!</p>
+        </section>
+
+        <!-- Service List -->
+        <section class="service-list">
+            <div class="service-item">
+                <h2>Food Delivery</h2>
+                <p>Get your favorite meals delivered right to your door. We offer quick and reliable delivery services to ensure your food arrives fresh and on time.</p>
+                <p><strong>Deliveries start from Villa to Kingstown.</strong></p>
+            </div>
+
+            <div class="service-item">
+                <h2>Catering Services</h2>
+                <p>We cater to a wide range of events, from small family gatherings to large corporate functions. Let us take care of the food while you focus on the event.</p>
+            </div>
+
+            <div class="service-item">
+                <h2>Custom Menus</h2>
+                <p>Work with our chefs to create a customized menu that fits your specific needs. We offer flexibility in our options to ensure your event is unique and memorable.</p>
+            </div>
+
+            <div class="service-item">
+                <h2>Special Events</h2>
+                <p>We specialize in catering for special events such as birthdays, weddings, and more. Let us make your event extra special with our delicious food and impeccable service.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 The Curb Restaurant. All rights reserved.</p>
+    </footer>
+</body>
+</html>
